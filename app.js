@@ -151,3 +151,31 @@
 // else {
 //     alert("Invalid time!");
 // }
+
+// // var colors = ["red", "green", "blue"];
+// // var usercolor = prompt("Enter a color to add to the beginning:");
+// // colors.push(usercolor);
+// // console.log("Updated colors: " + colors);
+// // colors.shift(0)
+// // colors.pop()
+// // console.log(colors)
+
+// // var colors = ["Red", "Green", "Blue", "Yellow"];
+
+// // var index = +prompt("At which index do you want to add a color?");
+
+// // var newColor = prompt("Enter the color name you want to add:");
+
+// // colors.splice(index, 1, newColor);
+
+// // console.log("Updated Colors: " + colors);
+
+// var colors = ["Red", "Green", "Blue", "Yellow"];
+
+// var userNum = +prompt("Please enter the color you want to delete")
+
+// var userNum1 = +prompt("Please enter quantity how many you want to delete")
+
+// colors.splice(userNum, userNum1)
+
+// alert(colors)
