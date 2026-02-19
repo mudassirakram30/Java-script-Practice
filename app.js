@@ -179,4 +179,4 @@
 // colors.splice(userNum, userNum1)
 
 // alert(colors)
-bb
+b
