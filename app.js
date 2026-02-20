@@ -1,4 +1,4 @@
-
+j
 // var number = Number(prompt("please enter your number"))
 // var sum = number + 5
 // alert("Your Add Result is " + sum)
